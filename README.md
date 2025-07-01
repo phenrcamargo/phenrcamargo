@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Pedro Camargo
 
-<!--
-**phenrcamargo/phenrcamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedor Full Stack  
+💻 Tecnologias: Flutter • Java • JavaScript • Golang  
+🧠 Estudioso de arquitetura limpa, padrões de projeto e boas práticas
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias & Ferramentas
+
+- **Frontend**: Flutter, Angular
+- **Backend**: Java, Golang, Node.js
+- **Banco de Dados**: PostgreSQL, MongoDB, Firebase
+- **DevOps**: Git, Docker, Linux
+
+---
+
+## 📫 Contato
+
+- [LinkedIn]([https://www.linkedin.com/in/seuusuario](https://www.linkedin.com/in/pedro-henrique-camargo-654412165/))
+- Email: phenriquecamargo@outlook.com
